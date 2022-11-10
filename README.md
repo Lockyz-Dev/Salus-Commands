@@ -11,11 +11,9 @@ Usage: /8ball {question} [drink yes/no]
 
 ### Requirements
 
-discord.js: v13.8.0
-
-better-sqlite3: v7.5.1
-
-discord.js@builders: v0.15.0
+..*discord.js: v13.8.0
+..*better-sqlite3: v7.5.1
+..*discord.js@builders: v0.15.0
 
 ## Action
 ### Info
