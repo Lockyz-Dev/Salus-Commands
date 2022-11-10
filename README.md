@@ -1,6 +1,11 @@
 # Bit Commands
 This is a collection of commands used within the Bit Discord Bot, all commands listed below have been uploaded, code and all. We've done our best to update the requirements and information for each command, however it could be wrong.
 
+# Bit Information
+Bit is a Discord bot created by [Lockyz Dev](https://lockyzdev.net) and developed by [Robin Painter](https://twitter.com/R0binPainter)
+
+[Add Bot](https://discord.com/api/oauth2/authorize?client_id=596765919297011736&permissions=8&scope=bot%20applications.commands)
+
 # Requirements
 All commands require better-sqlite3, discord.js and discord.js@builders
 
